@@ -7,7 +7,7 @@ src="https://www.youtube.com/watch?v=YkADj0TPrJA">
 
 <script> 
 alert('I love you, my gorilla.');
-</script>
+
 
 <strong> THIS IS MY FIRST WEBPAGE </strong>
 
