@@ -5,7 +5,7 @@ src="https://www.youtube.com/watch?v=YkADj0TPrJA">
 </iframe> 
 
 
-<script> 
+<script 
 alert('I love you, my gorilla.');
 
 
