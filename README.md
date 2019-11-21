@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Profile of Belinda Harbort
 
 You can use the [editor on GitHub](https://github.com/B-Harb/Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
