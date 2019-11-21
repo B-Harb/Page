@@ -1,10 +1,12 @@
 ## Welcome to the Github Profile of Belinda Harbort
 
-
+<script> 
+alert('I love you, my gorilla.');
+</script>
 
 <strong> THIS IS MY FIRST WEBPAGE </strong>
 
-You can use the [editor on GitHub](https://github.com/B-Harb/Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p>You can use the [editor on GitHub](https://github.com/B-Harb/Page/edit/master/README.md) to maintain and preview the content for your website in Markdown files.</p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
