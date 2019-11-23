@@ -46,3 +46,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+    <header> - Defines a header for a document or a section
+    <nav> - Defines a container for navigation links </nav>
+    <section> - Defines a section in a document </section>
+    <article> - Defines an independent self-contained article </article>
+    <aside> - Defines content aside from the content (like a sidebar) </aside>
+    <footer> - Defines a footer for a document or a section </footer>
+    <details> - Defines additional details </details>
+    <summary> - Defines a heading for the <details> element </summary>
