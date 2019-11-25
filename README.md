@@ -1,7 +1,7 @@
 <html>
 
 <body style="background-color:Black;">
-<img src="wtp.jfif"            
+            <p> img src="wtp.jfif" </p>       
             
 <h1 style="font-family:Courier; color:White; font-size: 25px;"><b>Background</b></h1>
 
