@@ -1,6 +1,8 @@
 <html>
-<body class=".bg-gray-dark;">
+<body *background-color: Black;*>
 
+            background-image:url("Seattle.jpg");
+            /*background-color: lightgray;*/
 <h1 style="font-family:Courier; color:White; font-size: 30px;"><b>Background</b></h1>
 
 
