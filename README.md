@@ -1,6 +1,6 @@
 <html>
 <style>
-  background-color: lightblue;
+body {  background-color: lightblue;
 }
 
       
