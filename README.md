@@ -1,5 +1,5 @@
 <html>
-<body> background-color: lightblue;
+<body background-color: lightblue;
 
        </body>       
    
