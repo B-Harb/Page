@@ -1,6 +1,7 @@
 <html>
 
 <body style="background-color:Black;">
+<img src="pic_trulli.jpg"            
             
 <h1 style="font-family:Courier; color:White; font-size: 25px;"><b>Background</b></h1>
 
