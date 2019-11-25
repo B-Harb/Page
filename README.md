@@ -1,15 +1,8 @@
-<html>
-<body background-color: lightblue;
-
-       </body>       
-   
-<style>
+<html> 
 body {  background-color: black;
 }
    
-h1 color: white; text-align: left;
-<b>font-family:Courier; color:White; font-size: 30px;">Background
-
+<h1 { text-color: white; </h>
 <article style="<i>font-family:Courier; color:LightGrey; font-size: 20px;"> I wasn’t always based in Melbourne. English speaking only, with a grade 12 education and a number of certificate 3 and 4 ‘s. I am an Australian born Citizen of European decent. My origins are in QLD where I grew up on my parent’s horse stud. I spent many years on the property and at events competing. As I grew so too did my involvement. Each day I would be breaking-in and training multiple horses at various different levels for Endurance, Dressage, Jumping and Showing. Foaling-down as we call it was an intensive period of the year, where I would monitor the mares leading up to delivery of foals. Of high priority was ensuring intensive monitoring of births and assisting mares if there was any difficulty with delivery. The legs are the most common concern as they need to be straight and parallel in order to deliver. Many times, I have had to reach in and readjust the leg position of a foal within a birth canal before the mare would be able to deliver. The shoulders can often be the next problematic structure for the mare to pass, so some assistance may be provided with some gentle tension in the direction of exit in time with the mare’s pushes. 
 From this upbringing I extended myself outside the stud where I could carve my own reliable income and development. The equine industry only goes so far mentally, physically and financially unless you provide a service. Becoming a veterinarian did not appeal to myself. My venture into childcare was more exploratory than desired. Interestingly I didn’t even like children. Still don’t. However, I took on the challenge and came to possess an appreciation for them. My niche was with the children with disabilities, as I learnt to read their behaviour much like I had with horses. I found that this ability I brought to the workplace aided my co-workers and the children in kind. Interesting how much we rely upon vocal and written communication and leave a world of body language unheard. 
 When my childcare venture was complete, I acquired myself a placement at the largest Water Treatment Plant in South East QLD. I joined the operators as a Trainee treating water from the Brisbane River and supplying this drinking water to the extremely broad network. While my traineeship contract was to span two years. I became a permanent employee after just one year and spent the following 3 years growing with projects and upgrades until I was performing in a Technical Officer role. In this role I was well placed to stretch my technical expertise and work with a multitude of new stakeholders as we completed one of the largest projects the plant had seen in many years. The most crucial supplier of potable water was to be turned off for a period of three days to install six new valves. The work was the most significant event I was involved in within my career to date and cemented my desire to develop myself further than what training and experience I had been granted as an Operator. While I made moves to different teams, inclusive of Networks and other smaller plants to acquire a work life balance which would enable part time study. Only my flexibility in moving to Melbourne to work for another Government Water Body permitted my entry into study. 
