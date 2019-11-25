@@ -1,5 +1,9 @@
 <html>
-<body background-color: lightblue;
+
+body {
+  background-color: lightblue;
+}
+
       
 <h style="<b>font-family:Courier; color:White; font-size: 30px;">Background
 
