@@ -1,5 +1,5 @@
 <html>
-<body style="black;">
+<body style="bgcolor=black;">
 
 <h1 style="font-family:Courier; color:White; font-size: 30px;"><b>Background</b></h1>
 
