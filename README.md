@@ -1,6 +1,6 @@
 <html>
 <body {background-color: Black}>
-
+<body bgcolor="#E6E6FA">
             
 <h1 style="font-family:Courier; color:White; font-size: 30px;"><b>Background</b></h1>
 
