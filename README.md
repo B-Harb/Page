@@ -1,7 +1,8 @@
 <html>
-
+<h1 style="text-align:center;
 <body style="background-color:Black;">
-<h1 style="text-align:center;"font-family:Courier; color:White; font-size: 25px;"> <b> Background</b>             
+
+<h1 style="font-family:Courier; color:White; font-size: 25px;"> <b> Background</b>             
  
   
 
