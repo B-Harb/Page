@@ -2,7 +2,7 @@
 
 <body style="background-color:Black;">
              
-<h1 style="text-align:centre; font-family:Courier; color:White; font-size: 25px;"> <b> Background</b?</h> 
+<h1 style="text-align:centre; font-family:Courier; color:White; font-size: 25px;"> <b> Background</b></h> 
   
 
 
