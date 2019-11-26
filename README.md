@@ -1,5 +1,7 @@
 <html>
-<head> Background </head>
+<head> 
+</head>
+<script> confirm("Would you like to proceed to Belinda's Website?") </script>
 <body style="background-color:Black;">
 
 <p align="center"; style="font-family:Courier; color:White; font-size: 25px;" <b> Background</b> </p>            
