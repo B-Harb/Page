@@ -2,7 +2,7 @@
 
 <body style="background-color:Black;">
 
-<p align="center"; style="font-family:Courier; color:White; font-size: 25px;"> <b> Background</b> </p>            
+<p align="center"; style="font-family:Courier; color:White; font-size: 25px;" <b> Background</b> </p>            
  
   
 
