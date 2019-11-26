@@ -1,8 +1,16 @@
 <html>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <body style="background-color:Black;">
             <img src="wtp.jfif" width="500" height="600">    
-            
+ <section>
+  <nav>
+    <ul>
+      <li><a href="#">London</a></li>
+      <li><a href="#">Paris</a></li>
+      <li><a href="#">Tokyo</a></li>
+    </ul>
+  </nav>
+ 
 <h1 style="font-family:Courier; color:White; font-size: 25px;"><b>Background</b></h1>
 
 
