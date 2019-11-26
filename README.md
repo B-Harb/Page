@@ -1,17 +1,7 @@
 <html>
 
 <body style="background-color:Black;">
-            <img src="wtp.jfif" width="500" height="600">    
-/* Style the header */
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}           
-
-
+             
 <h1 style="font-family:Courier; color:White; font-size: 25px;"><b>Background</b></h1>
 
 
