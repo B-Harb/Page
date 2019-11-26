@@ -2,15 +2,9 @@
 
 <body style="background-color:Black;">
             <img src="wtp.jfif" width="500" height="600">    
- <section>
-  <nav>
-    <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
-    </ul>
-  </nav>
- 
+            <section>
+
+
 <h1 style="font-family:Courier; color:White; font-size: 25px;"><b>Background</b></h1>
 
 
@@ -24,6 +18,6 @@
 I chose to study with RMIT as while I understand the university supplies a multitude of courses. The use of Technology in the Institution’s name spoke to some focus on Technology. This clearly says more about myself and my perception, rather than what RMIT necessarily wishes to convey. However, this led to myself visiting the website and perusing the courses on offer. While I did look at other universities for the same courses, I found the RMIT course information pages to be more informative and this aided my decision to jump in and start studying now. My partner and I are now both studying outside of work. I was looking for a system that would enable this extra component to our lives without the need to query how the course is travelling. I am a great advocate of structure, and order. To find a course delivered in a structure that suits myself was important.</p>
 
 <p style="font-family:Courier; color:LightGrey; font-size: 20px;">In my studies I expect to learn information relevant to the industry. I value diverse experience having cultivated it myself and seen the fruits this provides. I think variety is important to be educated in especially due to the broad nature f the IT industry. I know there are parts of the IT industry I am not even aware of, yet would like to learn about. As this is my first step into studying a Bachelor, I’m looking forward to gaining further context on just what options, opportunities, configurations and processes may lead into this industry from the course. I am here to be enlightened. It would please me to learn with others who will also contribute to the charter of this course and if I can share any helpful information from my background. </p>
-
+</section>
 </body>
 </html>
