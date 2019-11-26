@@ -1,5 +1,5 @@
 <html>
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body style="background-color:Black;">
             <img src="wtp.jfif" width="500" height="600">    
             
