@@ -2,7 +2,7 @@
 <head> 
 <body style="background-color:Black;"> 
       <h1 align="center"; </h>
-      <h1 style= "font-family:Courier; color:White; font-size: 25px"; <b> Background </b> </h1>
+      <h1 style="font-family:Courier; color:White; font-size: 25px"; <b> Background </b> </h1>
 </head>
 
 
