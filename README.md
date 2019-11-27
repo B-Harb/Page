@@ -1,8 +1,7 @@
 <html>
 <head> 
 <body style="background-color:Black;"> 
-     
-</head>
+
 
  <p float="center"; </p>
       <p style="font-family:Courier; color:White; font-size: 25px"; <b> Background </b> </p>
