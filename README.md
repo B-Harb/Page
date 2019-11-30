@@ -1,6 +1,6 @@
 <html>
 <head width=100%"> 
-<body style="background-color:Black; width=100%"> 
+<body style="background-color:Black; width=100% margin:0 padding:0">
 
 <p style="float:left;">
 <img align="right" src="Belinda Harbort Corporate edit.jpg" hspace="20 ">  
