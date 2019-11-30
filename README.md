@@ -5,7 +5,7 @@
 
  <p float="center"; style="font-family:Courier"; color:"White"; font-size: 25px"; <b> Background </b> </p>
 
-<p> <img style="padding:0 15px; float:left" src="Belinda Harbort Corporate aresised.jpg" width:100px;height:100px;">
+<p> <img style="float:left" src="Belinda Harbort Corporate aresised.jpg" width:100px;height:100px;">
 <p style="margin-top:20px;"></p>
 <p style="font-family:Courier; color:LightGrey; font-size: 20px;">I wasn’t always based in Melbourne. English speaking only, with a grade 12 education and a number of certificate 3 and 4 ‘s. I am an Australian born Citizen of European decent. My origins are in QLD where I grew up on my parent’s horse stud. I spent many years on the property and at events competing. As I grew so too did my involvement. Each day I would be breaking-in and training multiple horses at various different levels for Endurance, Dressage, Jumping and Showing. Foaling-down as we call it was an intensive period of the year, where I would monitor the mares leading up to delivery of foals. Of high priority was ensuring intensive monitoring of births and assisting mares if there was any difficulty with delivery. The legs are the most common concern as they need to be straight and parallel in order to deliver. Many times, I have had to reach in and readjust the leg position of a foal within a birth canal before the mare would be able to deliver. The shoulders can often be the next problematic structure for the mare to pass, so some assistance may be provided with some gentle tension in the direction of exit in time with the mare’s pushes. </p>
 
