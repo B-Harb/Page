@@ -1,5 +1,5 @@
 <html>
-<head> 
+<head width=100%"> 
 <body style="background-color:Black; width=100%"> 
 
 <p style="float:left;">
