@@ -1,0 +1,11 @@
+<html>
+<head> 
+<body style="background-color:Black; width=100% margin:100% padding:100%">
+
+<p style="float:left;">
+<img src="wtp1.jpg" style="float:left;" class="border" hspace="20">
+<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Background </b>
+
+<p style="font-family:Courier; color:LightGrey; font-size: 14px;"> This is where the project pitch may be placed </p>
+</body>
+</html>
