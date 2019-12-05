@@ -6,9 +6,9 @@ Belinda Harbort Corporate edit.jpg
 <img src="wtp1.jpg" style="float:left;" class="border" hspace="20">
 
 
-<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Name: </b> Belinda Harbort>
-<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Student Number: </b> s3832976>
-<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Email Address: </b> bharbort@outlook.com >
+<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Name: </b> Belinda Harbort </p>
+<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Student Number: </b> s3832976 </p>
+<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Email Address: </b> bharbort@outlook.com </p>
 
 <p style="font-family:Courier; color:White; font-size: 19px;"> <b> Background </b>
 
