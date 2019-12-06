@@ -5,7 +5,7 @@
 <p style="font-family:Courier; color:White; font-size: 19px;">
 
 <div style="border: 1px solid white"> <b> Destinations </b>    
-<ul style="font-family:Courier; color:White; font-size: 14px;"> 
+<ul  style-"border: 1px solid white;" style="font-family:Courier; color:White; font-size: 14px;"> 
   <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
   <li> Click <a href="   ">here</a> to open Personality Results Page</li>
   <li> Click <a href="   ". here,/a> to open Another Page</li>
