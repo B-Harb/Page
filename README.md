@@ -4,13 +4,14 @@
   
 <style= bordered "border: 1px solid white;"
 
-<div class="bordered" style="font-family:Courier; color:White; font-size: 19px;" hspace="20"> <b> Directories </b>
+<p style="border:3px; border-style:solid; border-color:White; padding: 1em;">
+<p style="font-family:Courier; color:White; font-size: 19px;" hspace="20"> <b> Directories </b>
 <ul style="font-family:Courier; color:White; font-size: 14px;">
   <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
   <li> Click <a href="   ">here</a> to open Personality Results Page</li>
   <li> Click <a href="   ". here,/a> to open Another Page</li>
 </ul>   
-</div>
+</p>
 
 
 </style>
