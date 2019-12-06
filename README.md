@@ -8,7 +8,7 @@
   }
 </style>
 
-<div class="bordered" style="font-family:Courier; color:White; font-size: 19px;"> <b> Directories </b>
+<div class="bordered" style="font-family:Courier; color:White; font-size: 19px;" hspace="20"> <b> Directories </b>
 <ul style="font-family:Courier; color:White; font-size: 14px;">
   <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
   <li> Click <a href="   ">here</a> to open Personality Results Page</li>
