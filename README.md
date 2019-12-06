@@ -5,9 +5,6 @@
 <p style="font-family:Courier; color:White; font-size: 19px;">
 <style>
   .bordered {
-    width: 200px;
-    height: 100px;
-    padding: 20px;
     border: 1px solid white;
   }
 </style>
