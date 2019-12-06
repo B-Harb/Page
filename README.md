@@ -2,9 +2,9 @@
 <head> 
 <body style="background-color:Black; width=100% margin:100% padding:100%">
 
-<p>
-<span style="border: 1px solid white">
-<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Destinations </b>  
+<p style="font-family:Courier; color:White; font-size: 19px;">
+
+<div style="border: 1px solid white"> <b> Destinations </b>    
 <ul style="font-family:Courier; color:White; font-size: 14px;"> 
   <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
   <li> Click <a href="   ">here</a> to open Personality Results Page</li>
