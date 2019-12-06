@@ -1,6 +1,17 @@
 <html>
 <head> 
 <body style="background-color:Black; width=100% margin:100% padding:100%">
+
+<p style="font-family:Courier; color:White; font-size: 19px;"> <b> Destinations </b>
+<p style="font-family:Courier; color:White; font-size: 14px;">
+<ul>
+  <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
+  <li> Click <a href="   ">here</a> to open Personality Results Page</li>
+  <li> Click <a href="   ". here,/a> to open Another Page</li>
+</ul> 
+</p>
+
+
 Belinda Harbort Corporate edit.jpg
 <p style="float:left;">
 <img src="wtp1.jpg" style="float:left;" class="border" hspace="20">
@@ -28,7 +39,7 @@ I chose to study with RMIT as while I understand the university supplies a multi
 
 <p style="font-family:Courier; color:LightGrey; font-size: 14px;">In my studies I expect to learn information relevant to the industry. I value diverse experience having cultivated it myself and seen the fruits this provides. I think variety is important to be educated in especially due to the broad nature f the IT industry. I know there are parts of the IT industry I am not even aware of, yet would like to learn about. As this is my first step into studying a Bachelor, I’m looking forward to gaining further context on just what options, opportunities, configurations and processes may lead into this industry from the course. I am here to be enlightened. It would please me to learn with others who will also contribute to the charter of this course and if I can share any helpful information from my background. </p>
 
-Click <a href="PrREADME.html">here</a> to go to yahoo.
+Click <a href="PrREADME.html">here</a> to open the Project Page.
 
 </body>
 </html>
