@@ -2,8 +2,10 @@
 <head> 
 <body style="background-color:Black; width=100% margin:100% padding:100%">
   
-<style= border: 1px solid white;
+<style>
+  .bordered
 </style>
+ 
  
 <div class="bordered" style="font-family:Courier; color:White; font-size: 19px;" hspace="20"> <b> Directories </b>
 <ul style="font-family:Courier; color:White; font-size: 14px;">
