@@ -1,7 +1,15 @@
 <html>
 <head> 
 <body style="background-color:Black; width=100% margin:100% padding:100%">
+<style>
+.border {
+ border-style:solid;
+ border-color:#287EC7;
+}
+</style>
 
+<p class=".border"> Here is an example of a border created using CSS</p>
+  
 <p style="font-family:Courier; color-White: font-size: 19px;" "border:3px; border-style:solid; border-color:White; padding: 1em;"> 
 <b> Directories </b>
 </p>
