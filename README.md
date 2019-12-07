@@ -2,7 +2,7 @@
 <head> 
 <body style="background-color:Black; width=100% margin:100% padding:100%">
 
-<p style=font-family:Courier; color-White: font-size: 19px "border:3px; border-style:solid; border-color:White; padding: 1em;"> 
+<p style="font-family:Courier; color-White: font-size: 19px;" "border:3px; border-style:solid; border-color:White; padding: 1em;"> 
 <b> Directories </b>
 </p>
 <ul style="font-family:Courier; color:White; font-size: 14px;">
