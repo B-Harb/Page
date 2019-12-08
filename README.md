@@ -25,9 +25,8 @@
  
 <br>
 
-Belinda Harbort Corporate edit.jpg
 <p style="float:left;">
-<img src="wtp1.jpg" style="float:left;" class="border" hspace="20">
+<img src="Belinda Harbort Corporate Photo.jpg" style="float:left;" class="border" hspace="20">
 
 
 <p style="font-family:Courier; color:White; font-size: 14px;"> <b> Name: </b> Belinda Harbort </p>
