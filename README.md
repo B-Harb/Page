@@ -33,9 +33,6 @@
 <p style="font-family:Courier; color:White; font-size: 14px;"> <b> Student Number: </b> s3832976 </p>
 <p style="font-family:Courier; color:White; font-size: 14px;"> <b> Email Address: </b> bharbort@outlook.com </p>
 
-<br> 
-<br>
-<br>
 <br>
 <br>
 
