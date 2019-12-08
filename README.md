@@ -4,7 +4,7 @@
 
 
   
-<p style="font-family:Courier; color-White: font-size: 19px; border:3px; border-style:solid; border-color:White; padding: 1em;" <b> Directories </b>
+<p style="font-family:Courier; color-White; font-size: 19px; border:3px; border-style:solid; border-color:White; padding: 1em;"> <b> Directories </b>
 <ul style="font-family:Courier; color:White; font-size: 14px;">
   <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
   <li> Click <a href="   ">here</a> to open Personality Results Page</li>
