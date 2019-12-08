@@ -5,8 +5,9 @@
 
 <ul style="font-family:Courier; color:White; font-size: 19px; border:3px; border-style:solid; border-color:White; padding: 1em;"> <b> Directories </b>
   <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
-  <li> Click <a href="   ">here</a> to open Personality Results Page</li>
-  <li> Click <a href="   ". here,/a> to open Another Page</li>
+  <li> Click <a href="Personality.html"></a> to open Personality Results Page</li>
+  <li> Click <a href="Ideal Job.html"here,/a> to open Ideal Job Page</li>
+  <li> Click <a href=""here,/a> to open  ...... Page </li>
 </ul>
 </p>
 
