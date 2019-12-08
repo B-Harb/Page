@@ -13,6 +13,19 @@
 <p style="font-family:Courier; color-White: font-size: 19px;" "border:3px; border-style:solid; border-color:White; padding: 1em;"> 
 <b> Directories </b>
 </p>
+ul {
+  border: 1px solid white;
+  padding-right: 0px;
+  padding-left: 28px;
+  width: 50px;
+  border-radius: 5px;
+}
+
+<ul>
+  <li>Hello</li>
+  <li>Hello</li>
+  <li>Hello</li>
+</ul>
 <ul style="font-family:Courier; color:White; font-size: 14px;">
   <li> Click <a href="PrREADME.html">here</a> to open the Project Page </li>
   <li> Click <a href="   ">here</a> to open Personality Results Page</li>
