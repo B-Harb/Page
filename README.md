@@ -1,25 +1,19 @@
 <html>
 <head> 
 <body style="background-color:Black; width=100% margin:100% padding:100%">
-<style>
-.border {
- border-style:solid;
- border-color:#287EC7;
-}
-</style>
 
-<p class=".border"> Here is an example of a border created using CSS</p>
+
+ul {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
   
 <p style="font-family:Courier; color-White: font-size: 19px;" "border:3px; border-style:solid; border-color:White; padding: 1em;"> 
 <b> Directories </b>
 </p>
-ul {
-  border: 1px solid white;
-  padding-right: 0px;
-  padding-left: 28px;
-  width: 50px;
-  border-radius: 5px;
-}
 
 <ul>
   <li>Hello</li>
